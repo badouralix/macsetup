@@ -16,7 +16,7 @@ brew install $formulas
 ## Install Casks
 
 ```
-casks='ccleaner aws-vault virtualbox vagrant vagrant-manager visual-studio-code chefdk spotify'
+casks='ccleaner aws-vault virtualbox vagrant vagrant-manager visual-studio-code chefdk spotify spectacle slack'
 brew cask install $casks
 
 ```
